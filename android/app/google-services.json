@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632328887051",
+    "project_id": "eduka-d7ea8",
+    "storage_bucket": "eduka-d7ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632328887051:android:cfba698f12a1dd0cad600e",
+        "android_client_info": {
+          "package_name": "org.eduka.arv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632328887051-7p1aperhomdq619ccviop2lpliieuu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-L6GwCRl2JRlF57C8HhheUD_uSzjepA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632328887051-7p1aperhomdq619ccviop2lpliieuu2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
